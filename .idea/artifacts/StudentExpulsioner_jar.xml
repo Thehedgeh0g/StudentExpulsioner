@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StudentExpulsioner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StudentExpulsioner_jar</output-path>
+    <root id="archive" name="StudentExpulsioner.jar">
+      <element id="module-output" name="StudentExpulsioner" />
+    </root>
+  </artifact>
+</component>
